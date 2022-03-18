@@ -54,4 +54,8 @@ After this session you will be building real-time streaming and messaging applic
 * https://dzone.com/articles/real-time-edge-application-with-apache-pulsar
 * https://dev.to/tspannhw/flip-py-pi-gas-sensor-thermal-iot-example-485p
 * https://dev.to/tspannhw/flip-py-pi-enviroplus-3l6j
-* 
+* https://ankitsahay.medium.com/getting-started-with-apache-pulsar-using-python-90a9fc1d6ff7
+
+### Python Client Features
+
+* https://t.co/EYu3TAlLdt
