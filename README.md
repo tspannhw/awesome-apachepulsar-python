@@ -39,11 +39,16 @@ After this session you will be building real-time streaming and messaging applic
 * https://github.com/tspannhw/FLiP-Pi-Thermal
 * https://github.com/tspannhw/FLiP-RP400
 * https://github.com/tspannhw/FLiP-Pi-Weather
+* https://github.com/tspannhw/FLiP-Pi-BreakoutGarden
+* https://github.com/tspannhw/Meetup-YourFirstEventDrivenApp
+* https://github.com/tspannhw/pulsar-pychat-function
 
 
 ### Videos
 
 * https://www.youtube.com/watch?v=mg7RLwV3x1M&t=1107s
+* https://twitter.com/streamnativeio/status/1501981211442368512?s=20&t=0FLMg5eliITLkZxChRNbVw
+* https://www.youtube.com/watch?v=EOV_-7_DHNk&t=1s
 
 ### Articles
 
@@ -55,6 +60,7 @@ After this session you will be building real-time streaming and messaging applic
 * https://dev.to/tspannhw/flip-py-pi-gas-sensor-thermal-iot-example-485p
 * https://dev.to/tspannhw/flip-py-pi-enviroplus-3l6j
 * https://ankitsahay.medium.com/getting-started-with-apache-pulsar-using-python-90a9fc1d6ff7
+* https://timwithpulsar.hashnode.dev/python-streaming-apps-with-apache-pulsar-for-environment-sensors
 
 ### Python Client Features
 
